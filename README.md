@@ -2,9 +2,7 @@
 
 This isn't Vivid's home -- that's at http://vivid-synth.com
 
-Some people like to read code on GitHub though, so here we are!
-
-**Please don't submit pull requests here -- discuss on the [mailing list][list]**
+I've forked this library, they have a here: [mailing list][list]**
 
 [list]: http://lurk.org/groups/haskell-art
 
